@@ -151,7 +151,7 @@ rm -rf Jenkins-dir
 Print:
 
 ```
-hey, "username" don’t forget to terminate the Instance.
+hey, "Naveen" don’t forget to terminate the Instance.
 ```
 
 ---
@@ -171,7 +171,7 @@ hey, "username" don’t forget to terminate the Instance.
 ### 🖥️ Build Step → Execute Shell
 
 ```bash
-echo "hey, ${USERNAME} don’t forget to terminate the Instance."
+echo "hey, Naveen don’t forget to terminate the Instance."
 ```
 
 ---
