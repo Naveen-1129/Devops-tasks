@@ -31,7 +31,7 @@ This section demonstrates AWS Identity and Access Management (IAM) concepts incl
 | Group           | Policies                                        |
 | --------------- | ----------------------------------------------- |
 | Developer-group | AmazonS3ReadOnlyAccess, AmazonEC2ReadOnlyAccess |
-| Tester-group    | Limited access (same as developer or custom)    |
+| Tester-group    | same as developer                               |
 | Admin-group     | AdministratorAccess                             |
 
 ---
